@@ -24,5 +24,3 @@ db();
 app.listen(PORT, ()=>{
     console.log("Server is starting on :",`https://localhost:${PORT}`);
 })
-
-//commented line
